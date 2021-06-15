@@ -1,0 +1,60 @@
+/* You can add global styles to this file, and also import other style files */
+.login{
+    margin-left: 40%;
+    margin-top: 15%;
+    border: 1px solid black;
+    float: left;
+    width: 300px;
+    height: 290px;
+    border-radius: 15px;
+    background-color:rgb(30, 44, 51) ;
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/260/920/non_2x/abstract-dark-black-color-background-overlapping-layers-vector.jpg);
+
+
+}
+.usr{
+    width: 297px;
+   
+}
+.acn{
+    
+    width: 297px;
+
+}
+.pwd{
+    width: 297px;
+    
+}
+#kl{
+    color: aliceblue;
+    
+}
+#btt{
+    
+    margin-left: 3%;
+    width: 130px;
+    height: 45px;
+    color: rgb(247, 247, 247);
+    background-color:rgb(94, 46, 148);
+    text-align:inherit;
+    margin-top: 7%;
+    border-radius: 0%;
+
+    
+}
+
+#name{
+    margin-top: 5%;
+    font: family sans serif 3px;
+    color: whitesmoke;
+}
+#nm{
+    background-image: url(https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/02/getty_4digital-banking_022221.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gh{
+    padding-left: 42%;
+    
+}

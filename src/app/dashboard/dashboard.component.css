@@ -1,0 +1,72 @@
+.main{
+    height: 500px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 40%;
+    margin-top: 10%;    
+    background-color: lemonchiffon;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTuT61OljuEzHcIoEIURfiVFggwInzQ8OibKiIHqR91-_93I84t84ztlWUvH9TMgDfAMQ&usqp=CAU);
+
+}
+#b1{
+    margin-left: 15% ;
+}
+#c2{
+    margin-top: 20%;
+}
+#bn{
+    text-align: center;
+    color: whitesmoke;
+}
+.mn{
+    background-image: url(https://img.wallpapersafari.com/desktop/1536/864/68/93/hSEvPY.jpg);
+  width: 100%;
+  
+
+}
+#b1{
+   margin-left: 4%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(54, 56, 53);
+  color: whitesmoke;
+}
+#b2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left: 8%;
+background-color:rgb(20, 27, 6);
+color: whitesmoke;
+}
+.hh{
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-style:unset;
+    text-shadow:yellow ;
+
+}
+#btt{
+    background-color: inherit;
+    float:initial;
+}
+.error{
+    color: red;
+}
+.dell{
+    width: 300px;
+    background-color: red;
+    
+}
+    .deleteStyle{
+        background-color: darkcyan;
+        opacity: 0.2;
+    }
+    
+.ghp{
+    margin-left: 40%;
+    width: 300px;
+}
+    
+   
+   
+
+    
